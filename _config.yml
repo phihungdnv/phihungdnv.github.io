@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Linux System Admin
 
 description: Linux System Admin // Log Analysis // Network Monitoring // Script
 author:
