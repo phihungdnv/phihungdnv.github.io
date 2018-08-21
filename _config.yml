@@ -7,24 +7,24 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: PhiHung.Ngo Blog
+title: dbyll
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Archive
+      title: dbyll
 
-description: Linux, Python, Shell
+description: Linux System Admin // Log Analysis // Network Monitoring // Script
 author:
   name: phihung.ngo
   email: phihungdnv@gmail.com
   github: phihungdnv
-  twitter: null
-  pinterest: null
-  linkedin: null
-  bio: Network Monitoring, Log Analysis, Pentest, System, Python
+  twitter: NULL
+  pinterest: NULL
+  linkedin: NULL
+  bio: Linux System Admin // Log Analysis // Network Monitoring // Script
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
