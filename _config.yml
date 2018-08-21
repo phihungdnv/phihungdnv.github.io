@@ -6,15 +6,15 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: phihungdnv
+title: Phi Hung Ngo
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Linux System Admin
+      title: All Archive
 
 description: Linux System Admin // Log Analysis // Network Monitoring // Script
 author:
@@ -25,7 +25,7 @@ author:
   pinterest: NULL
   linkedin: NULL
   bio: Linux System Admin // Log Analysis // Network Monitoring // Script
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: NULL
 
 rss_path: feed.xml
 categories_path: categories.html
