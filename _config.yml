@@ -14,17 +14,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: phihung
+      title:Linux, Python, Shell
 
 description: Linux, Python, Shell
 author:
   name: phihung.ngo
   email: phihungdnv@gmail.com
   github: phihungdnv
-  twitter: phihung
-  pinterest: phihung
-  linkedin: phihung
-  bio: Linux System Admin, Network Security
+  twitter: null
+  pinterest: null
+  linkedin: null
+  bio: Phi Hung Ngo
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
